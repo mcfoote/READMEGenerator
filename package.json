@@ -1,0 +1,22 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "a node js powered generator of READMEs to quickly create professional READMEs for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell C. Foote",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcfoote/READMEGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcfoote/READMEGenerator/issues"
+  },
+  "homepage": "https://github.com/mcfoote/READMEGenerator#readme"
+}
