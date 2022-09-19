@@ -13,7 +13,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Select a license for this project.',
-        choices: ['MIT', 'Mozilla Public License 2.0', 'GNU General Public License v3.0', 'BSD 3-clause license', 'ISC', 'Apache license 2.0',]
+        choices: ['MIT', 'Mozilla Public License', 'GNU General Public License', 'BSD license', 'ISC', 'Apache license',]
     },
     {
         type: 'input',
