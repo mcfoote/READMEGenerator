@@ -1,14 +1,91 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+  let output;
+  switch(license) {
+    case 'MIT':
+      output = '';
+      break;
+    case 'Mozilla':
+      output = '';
+      break;
+    case 'GNU':
+      output = '';
+      break;
+    case 'BSD':
+      output = '';
+      break;
+    case 'ISC':
+      output = '';
+      break;
+    case 'Apache':
+      output = '';
+      break;
+    case 'None':
+      output = '';
+    break;
+  }
+  return output;
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  let output;
+  switch(license) {
+    case 'MIT':
+      output = '';
+      break;
+    case 'Mozilla':
+      output = '';
+      break;
+    case 'GNU':
+      output = '';
+      break;
+    case 'BSD':
+      output = '';
+      break;
+    case 'ISC':
+      output = '';
+      break;
+    case 'Apache':
+      output = '';
+      break;
+    case 'None':
+      output = '';
+    break;
+  }
+  return output;
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+  let output;
+  switch(license) {
+    case 'MIT':
+      output = '';
+      break;
+    case 'Mozilla':
+      output = '';
+      break;
+    case 'GNU':
+      output = '';
+      break;
+    case 'BSD':
+      output = '';
+      break;
+    case 'ISC':
+      output = '';
+      break;
+    case 'Apache':
+      output = '';
+      break;
+    case 'None':
+      output = '';
+    break;
+  }
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
