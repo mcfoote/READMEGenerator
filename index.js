@@ -22,13 +22,23 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'install',
+        message: 'Enter installation instructions for the project.',
+    },
+    {
+        type: 'input',
         name: 'use',
         message: 'Enter an explanation of the projects use case.',
     },
     {
         type: 'input',
-        name: 'install',
-        message: 'Enter installation instructions for the project.',
+        name: 'contribution',
+        message: 'Enter contribution guidelines for the project.',
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: 'Enter testing instructions for the project.',
     },
     {
         type: 'input',
