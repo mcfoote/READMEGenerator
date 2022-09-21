@@ -74,10 +74,10 @@ function generateMarkdown(data) {
   *[License](#license)
   *[About](#about)
   *[Installation](#installation)
-  *[Use](#use)
+  *[Usage](#usage)
   *[Testing](#testing)
   *[Contribution](#contribution)
-  *[Contact](#contact)
+  *[Questions](#questions)
 
   ## Badges
   ${renderLicenseBadge(data.license)}
@@ -92,7 +92,7 @@ function generateMarkdown(data) {
   ## Installation
   ${data.install}
 
-  ## Use
+  ## Usage
   ${data.use}
 
   ## Testing
@@ -101,7 +101,7 @@ function generateMarkdown(data) {
   ## Contribution
   ${data.contribution}
 
-  ## Contact
+  ## Questions
   ${data.email}
   [${data.username}](https://github.com/${data.username})
 
