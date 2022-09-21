@@ -33,7 +33,7 @@
 
   ## Questions
   mcfoote321@gmail.com
-  [undefined](https://github.com/undefined)
+  https://github.com/mcfoote
 
   Video link: https://drive.google.com/file/d/1DNbvDJ_UEIDyYCw8QuNKntiT0NfMNm_e/view?usp=sharing
   
